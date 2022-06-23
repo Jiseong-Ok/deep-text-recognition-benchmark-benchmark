@@ -15,6 +15,14 @@ Result
 
 Ongoing
 - Data Augmentation : straug(https://github.com/roatienza/straug.git)
+- Example(Rotate, DefocusBlur)
+
+![Augmentation](https://user-images.githubusercontent.com/106142675/175199268-adb54061-d27e-4eac-b450-fb699d8df98a.png)
+
+- Super Resolution
+
+![Super Resolution](https://user-images.githubusercontent.com/106142675/175199377-c2437ec0-0f94-4e97-b548-f7a0b4568bd9.png)
+
 
 Reference
 - https://github.com/clovaai/deep-text-recognition-benchmark.git
